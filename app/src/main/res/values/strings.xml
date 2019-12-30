@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Graph Offline</string>
+    <string name="sin">sin</string>
+    <string name="pi">π</string>
+    <string name="exp">е</string>
+    <string name="ctg">ctg</string>
+    <string name="module">|</string>
+    <string name="degree">^</string>
+    <string name="cos">cos</string>
+    <string name="square">√</string>
+    <string name="_1">1</string>
+    <string name="log">log</string>
+    <string name="tg">tg</string>
+    <string name="_2">2</string>
+    <string name="minus">-</string>
+    <string name="left_bracket">(</string>
+    <string name="plus">+</string>
+    <string name="dot">.</string>
+    <string name="right_bracket">)</string>
+    <string name="space"> </string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_7">7</string>
+    <string name="_5">5</string>
+    <string name="equivalent">=</string>
+    <string name="delete">delete</string>
+    <string name="ok">ok</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="multiplication">∙</string>
+    <string name="_6">6</string>
+    <string name="division">/</string>
+    <string name="x">x</string>
+    <string name="sh">sh</string>
+    <string name="arsh">arsh</string>
+    <string name="arcsin">arcsin</string>
+    <string name="arccos">arccos</string>
+    <string name="ch">ch</string>
+    <string name="arch">arch</string>
+    <string name="arctg">arctg</string>
+    <string name="th">th</string>
+    <string name="arth">arth</string>
+    <string name="arcctg">arcctg</string>
+    <string name="cth">cth</string>
+    <string name="arcth">arcth</string>
+    <string name="ln">ln</string>
+    <string name="lg">lg</string>
+    <string name="lb">lb</string>
+    <string name="alpha">α</string>
+    <string name="action_Settings">Settings</string>
+    <string name="action_Cartesian">Cartesian</string>
+    <string name="action_Parametric">Parameirmic</string>
+    <string name="action_Polar">Polar</string>
+    <string name="action_About">About</string>
+    <string name="about_text">This software is the property of Aleksey Zhurin, a second-year student at BMSTU, department of IU8.
+For all questions related to the functionality and performance of this software, write to the mail: 2010zalex@gmail.com</string>
+    <string name="build_interval">Build interval</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="all_rights_reserved">© 2019 Aleksey Zhurin All Rights Reserved</string>
+    <string name="todo">TODO</string>
+    <string-array name="colors">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+    </string-array>
+</resources>
